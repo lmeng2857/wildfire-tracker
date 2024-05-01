@@ -1,5 +1,5 @@
-# Expense Tracker 
-> A simple React Web project built with NASA EONET API and OpenLayers .
+# OpenLayers_React_WildfireTracker 
+> A simple React Web project built with NASA EONET API and OpenLayers
 > Live demo [_here_]().
 - A self-contained React web project constructed with HTML, CSS, and JavaScript.
 - 
