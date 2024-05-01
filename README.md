@@ -16,6 +16,10 @@
 - Error prevention is implemented using conditional rendering with '&&' operators
 
 
+## Room for Improvement
+- To add interactive functionality for displaying information
+
+
 ## Setup
 To run this project on http://localhost:3000
 ```
