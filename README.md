@@ -16,9 +16,7 @@
 - React hook "useEffect" makes sure that map creation occurs after component mounting
 - Error prevention is implemented using conditional rendering with '&&' operators
 
-## Room for Improvement
 
-- To add interactive functionality for displaying information
 
 ## Setup
 
