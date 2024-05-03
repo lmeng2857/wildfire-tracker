@@ -15,7 +15,12 @@ export const DataProvider = ({ children }) => {
 
         locationsInf.map((item) => {
           let addedLocation = {};
-          addedLocation[item.id] = item.geometry[0].coordinates;
+          // console.log(item.title);
+          addedLocation["coordinates"] = item.geometry[0].coordinates;
+          addedLocation["id"] = item.id;
+          addedLocation["date"] = item.geometry[0].date;
+          addedLocation["title"] = item.title;
+
           locations = [...locations, addedLocation];
         });
         setFireLocations(locations);

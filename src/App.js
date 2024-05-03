@@ -1,6 +1,7 @@
 import "./App.css";
 import { DataProvider } from "./components/DataContext";
 import CreateMap from "./components/CreateMap";
+import "../node_modules/ol/ol.css";
 
 function App() {
   return (
