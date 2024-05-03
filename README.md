@@ -1,7 +1,7 @@
-# OpenLayers_React_WildfireTracker
+# WildfireTracker
 
 > A basic React web project displaying global wildfires using data from the NASA Open API
-> Live demo [_here_](https://phenomenal-pony-e9fbcd.netlify.app).
+> Live demo [_here_](https://imaginative-cascaron-96eb74.netlify.app/).
 
 ## General Information
 
