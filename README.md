@@ -1,6 +1,6 @@
 # wildfire tracker
 
-> A basic React web project displaying global wildfires using data from the NASA Open API
+> A basic React web project displaying global wildfires using data from the NASA Open API. 
 > Live demo [_here_](https://imaginative-cascaron-96eb74.netlify.app/).
 
 ## General Information
